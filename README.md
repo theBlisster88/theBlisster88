@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theBlisster88 Jr Developer
+- 👋 Hi, I’m @theBlisster88 a Jr Developer
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning Django, React
 - 💞️ I’m looking to collaborate on Web Developers
